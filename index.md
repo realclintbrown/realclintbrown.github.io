@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Beginner Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Climbing the Empire State Building with Dice](https://github.com/realclintbrown/empire-state-building-with-dice)
+<img src="images/empire-hist.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
